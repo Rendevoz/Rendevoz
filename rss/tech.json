@@ -1,0 +1,65 @@
+{
+  "category": "Tech",
+  "items": {
+    "TheVerge": {
+      "name": "The Verge - All Posts",
+      "link": "https://www.theverge.com/rss/index.xml",
+      "website": "http://www.theverge.com",
+      "logo": "theverge.jpg"
+    },
+    "ArsTechnica": {
+      "name": "Ars Technica",
+      "link": "http://feeds.arstechnica.com/arstechnica/index",
+      "website": "http://arstechnica.com",
+      "logo": ""
+    },
+    "Engadget": {
+      "name": "Engadget",
+      "link": "https://www.engadget.com/rss.xml",
+      "website": "http://www.engadget.com",
+      "logo": "engadget.jpg"
+    },
+    "Lifehacker": {
+      "name": "Lifehacker",
+      "link": "https://lifehacker.com/rss",
+      "website": "http://lifehacker.com",
+      "logo": "lifehacker.jpg"
+    },
+    "Techradar": {
+      "name": "Techradar - All the latest technology news",
+      "link": "https://www.techradar.com/rss",
+      "website": "http://www.techradar.com/us/rss",
+      "logo": ""
+    },
+    "Wired": {
+      "name": "Wired",
+      "link": "https://feeds.wired.com/wired/index",
+      "website": "http://www.wired.com",
+      "logo": "wire.jpg"
+    },
+    "TechCrunch": {
+      "name": "TechCrunch",
+      "link": "https://techcrunch.com/feed",
+      "website": "http://techcrunch.com",
+      "logo": "techcrunch.jpg"
+    },
+    "Gizmodo": {
+      "name": "Gizmodo",
+      "link": "https://gizmodo.com/rss",
+      "website": "https://gizmodo.com/",
+      "logo": "gizmodo.jpg"
+    },
+    "Mashable": {
+      "name": "Mashable",
+      "link": "http://feeds.mashable.com/Mashable",
+      "website": "https://mashable.com/feeds/rss/all",
+      "logo": "mashable.jpg"
+    },
+    "Slashdot": {
+      "name": "Slashdot",
+      "link": "http://rss.slashdot.org/Slashdot/slashdot",
+      "website": "https://slashdot.org/",
+      "logo": "slashdot.jpg"
+    }
+  }
+}

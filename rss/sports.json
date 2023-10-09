@@ -1,0 +1,29 @@
+{
+  "category": "Sports",
+  "items": {
+    "BBCSport": {
+      "name": "BBC Sport",
+      "website": "http://www.bbc.co.uk/sport/0",
+      "link": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "logo": "bbcsport.jpg"
+    },
+    "Deadspin": {
+      "name": "Deadspin",
+      "website": "http://deadspin.com",
+      "link": "https://deadspin.com/rss",
+      "logo": "deadspin.jpg"
+    },
+    "ESPN": {
+      "name": "ESPN - TOP",
+      "link": "http://sports.espn.go.com/espn/rss/news",
+      "website": "https://www.espn.com/",
+      "logo": "espn.jpg"
+    },
+    "BleacherReport": {
+      "name": "Bleacher Report",
+      "link": "http://bleacherreport.com/articles/feed",
+      "website": "https://bleacherreport.com/",
+      "logo": "bleacherreport.jpg"
+    }
+  }
+}

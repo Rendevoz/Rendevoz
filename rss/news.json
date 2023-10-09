@@ -1,0 +1,120 @@
+{
+  "category": "News",
+  "items": {
+    "BBCNews": {
+      "name": "BBC News",
+      "link": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "website": "https://www.bbc.com",
+      "logo": "bbc.jpg"
+    },
+    "CNN": {
+      "link": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "website": "https://www.cnn.com/index.html",
+      "name": "CNN News",
+      "logo": ""
+    },
+    "NYTimes": {
+      "name": "NYT - Top stories",
+      "website": "https://www.nytimes.com",
+      "link": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "logo": ""
+    },
+    "NPR": {
+      "name": "NPR News",
+      "website": "https://www.npr.org/templates/story/story.php?storyId=1001",
+      "link": "https://www.npr.org/rss/rss.php?id=1002",
+      "logo": "nprnews.jpg"
+    },
+    "TheGuardian": {
+      "name": "World news | The Guardian",
+      "website": "http://www.theguardian.com",
+      "link": "https://feeds.guardian.co.uk/theguardian/world/rss",
+      "image": "the"
+    },
+    "TheEconomist": {
+      "name": "The Economist",
+      "link": "https://www.economist.com/the-world-this-week/rss.xml",
+      "website": "https://www.economist.com/the-world-this-week/",
+      "logo": "theeconomist.jpg"
+    },
+    "YahooNews": {
+      "name": "Yahoo News - Top Stories",
+      "website": "http://news.yahoo.com/topstories/",
+      "link": "https://www.yahoo.com/news/rss/topstories",
+      "logo": "yahoonews.jpg"
+    },
+    "TheAtlantic": {
+      "name": "The Atlantic",
+      "link": "https://feeds.feedburner.com/TheAtlantic",
+      "website": "https://www.theatlantic.com/",
+      "logo": "theatlantic.jpg"
+    },
+    "FoxNews": {
+      "name": "FOX News",
+      "link": "http://feeds.foxnews.com/foxnews/national",
+      "website": "http://www.foxnews.com/",
+      "logo": "foxnews.jpg"
+    },
+    "Time": {
+      "name": "TIME",
+      "link": "https://rss.time.com/web/time/rss/top/index.xml",
+      "website": "https://time.com/",
+      "logo": "time.jpg"
+    },
+    "WSJ": {
+      "name": "WSJ: World News",
+      "website": "http://online.wsj.com/page/2_0006.html",
+      "link": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "logo": ""
+    },
+    "HackerNews": {
+      "name": "Hacker News",
+      "website": "https://news.ycombinator.com",
+      "link": "https://news.ycombinator.com/rss",
+      "logo": ""
+    },
+    "TheNewYorker": {
+      "name": "The New Yorker - Culture",
+      "link": "https://www.newyorker.com/services/rss/feeds/everything.xml",
+      "website": "https://www.newyorker.com/culture",
+      "logo": ""
+    },
+    "AlJazeera": {
+      "name": "Al Jazeera – News",
+      "link": "http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989",
+      "website": "https://www.aljazeera.com/",
+      "logo": "aljazeera.jpg"
+    },
+    "Vox": {
+      "name": "Vox - All",
+      "link": "http://www.vox.com/rss/index.xml",
+      "website": "https://www.vox.com/",
+      "logo": "vox.jpg"
+    },
+    "WashingtonPost": {
+      "name": "Washington Post: Breaking News, World, US, DC News & Analysis",
+      "link": "http://feeds.washingtonpost.com/rss/world",
+      "website": "http://www.washingtonpost.com/?wprss=rss_homepage",
+      "logo": ""
+    },
+    "NBCNews": {
+      "name": "NBC News Top Stories",
+      "website": "https://www.nbcnews.com/",
+      "link": "http://feeds.nbcnews.com/nbcnews/public/news",
+      "logo": "nbc.jpg"
+    },
+    "ABCNews": {
+      "name": "ABC News - Top stories",
+      "website": "http://abcnews.go.com",
+      "link": "https://feeds.abcnews.com/abcnews/topstories",
+      "logo": ""
+    },
+    "Politico": {
+      "name": "Politico",
+      "website": "https://www.politico.com/",
+      "link": "http://www.politico.com/rss/politicopicks.xml",
+      "logo": "politico.jpg"
+    }
+  }
+
+}

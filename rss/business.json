@@ -1,0 +1,41 @@
+{
+  "category": "Business",
+  "items": {
+    "BusinessInsider": {
+      "name": "Business Insider",
+      "website": "http://www.businessinsider.com",
+      "link": "https://feeds2.feedburner.com/businessinsider",
+      "logo": "businessinsider.jpg"
+    },
+    "HarvardBusiness": {
+      "name": "Harvard Business Review",
+      "website": "http://hbr.org/",
+      "link": "http://feeds.harvardbusiness.org/harvardbusiness",
+      "logo": "hbr.jpg"
+    },
+    "Entrepreneur": {
+      "name": "Entrepreneur",
+      "link": "https://feeds.feedburner.com/entrepreneur/latest",
+      "website": "http://www.entrepreneur.com",
+      "logo": "entrepreneur.jpg"
+    },
+    "TimFerriss": {
+      "name": "The Blog of Author Tim Ferriss",
+      "website": "https://tim.blog/",
+      "link": "https://tim.blog/feed",
+      "logo": ""
+    },
+    "Quartz": {
+      "name": "Quartz",
+      "link": "https://qz.com/feed",
+      "website": "http://qz.com",
+      "logo": ""
+    },
+    "FastCompany": {
+      "name": "Fast Company",
+      "link": "http://www.fastcompany.com/rss.xml",
+      "website": "https://www.fastcompany.com/",
+      "logo": "fastcompany.jpg"
+    }
+  }
+}

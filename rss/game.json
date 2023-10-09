@@ -1,0 +1,47 @@
+{
+  "category": "Game",
+  "items": {
+    "Kotaku": {
+      "name": "Kotaku",
+      "link": "https://kotaku.com/rss",
+      "website": "https://kotaku.com/",
+      "logo": "kotaku.jpg"
+    },
+    "Polygon": {
+      "name": "Polygon",
+      "website": "https://www.polygon.com/",
+      "link": "http://www.polygon.com/rss/index.xml",
+      "logo": "polygon.jpg"
+    },
+    "IGN": {
+      "name": "IGN",
+      "website": "",
+      "link": "http://feeds.ign.com/ign/all",
+      "logo": "ign.jpg"
+    },
+    "RPS": {
+      "name": "Rock, Paper, Shotgun",
+      "website": "https://www.rockpapershotgun.com/feed",
+      "link": "http://feeds.feedburner.com/RockPaperShotgun",
+      "logo": "rps.jpg"
+    },
+    "GameSpot": {
+      "name": "GameSpot",
+      "website": "https://www.gamespot.com/feeds/mashup",
+      "link": "https://www.gamespot.com/feeds/mashup",
+      "logo": "gamespot.png"
+    },
+    "GamesRadar": {
+      "name": "Games Radar",
+      "website": "https://www.gamesradar.com/",
+      "link": "http://www.gamesradar.com/Fall-platforms/news/rss/",
+      "logo": "gamesradar.jpg"
+    },
+    "NintendoLife": {
+      "name": "Nintendo Life | Latest Updates",
+      "website": "http://www.nintendolife.com/feeds/latest",
+      "link": "http://www.nintendolife.com/feeds/latest",
+      "logo": "nintendolife.jpg"
+    }
+  }
+}
